@@ -77,7 +77,7 @@ Examples of areas of development include:
 ### Other Help Resources
 
 * [Mailchain Slack](https://mailchain.slack.com)
-* [General Office Hours](https://github.com/mailchain/mailchain/labels/Office%20Hours) +  [#office-hours]( https:mailchain.slack.com/messages/office-hours) on Slack
+* [General Office Hours](https://github.com/mailchain/mailchain/labels/Office%20Hours) +  [#office-hours](https://mailchain.slack.com/messages/office-hours) on Slack
 * Mentored Contributor Standups
 
 * The docs
@@ -86,4 +86,4 @@ Examples of areas of development include:
 
 Thank you to both mentees and mentors for helping us continually improve the program.
 
-:heart:We love you! :heart:
+:heart: We love you! :heart:

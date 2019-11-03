@@ -10,7 +10,7 @@ We therefore describe the expectations for members of the Mailchain community.  
 
 As a community we believe in the value of code review for all contributions. Code review increases the quality and readability of our code base, which helps produce high quality software.
 
-See the [pull request documentation](/contributors/guide/pull-requests.md) for more information on code review.
+See the [Github Workflow](./github-workflow.md) for more information on code review.
 
 As a community we expect that all active participants in the community will also be active reviewers. Please expect reviewers to request that you avoid [common go style mistakes](https://github.com/golang/go/wiki/CodeReviewComments) in your PRs.
 
@@ -18,7 +18,7 @@ As a community we expect that all active participants in the community will also
 
 Because reviewers are often the first points of contact between new members of the community and can significantly impact the first impression of the Mailchain community, reviewers are especially important in shaping the Mailchain community.
 
-We highly encourage reviewers to read the [code of conduct](/governance.md#code-of-conduct) and strongly encourage them to go above and beyond the code of conduct to promote a collaborative, respectful Mailchain community.
+We highly encourage reviewers to read the [code of conduct](/code-of-conduct.md) and strongly encourage them to go above and beyond the code of conduct to promote a collaborative, respectful Mailchain community.
 
 ## Expectations of reviewers: Review latency
 
