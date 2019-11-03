@@ -23,7 +23,7 @@ These are roles that either span the project as a whole, or span several areas o
     - Mentoring new contributors
 - Documentation
   - [Contribute to Mailchain docs](https://docs.mailchain.xyz)
-  - Maintaining [troubleshooting](https://docs.mailchain.xyz/troubleshooting/troubleshooting) page.
+  - Maintaining [troubleshooting](https://docs.mailchain.xyz/troubleshooting/troubleshooting) page
   - Documenting new features
   - Press releases for new features
   - Translation

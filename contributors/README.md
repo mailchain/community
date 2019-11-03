@@ -1,7 +1,7 @@
 # Guide
 
 Welcome to Mailchain. This document is a guide for how to contribute to the code base. Please read and observe our [Code of Conduct](/code-of-conduct.md).
-Browse the [open issues](https://github.com/mailchain/community/issues?q=is%3Aissue+is%3Aopen+label%3Aarea%2Fcontributor-guide) and file new ones, all feedback welcome!
+Browse the [open issues](https://github.com/mailchain/community/issues) and file new ones, all feedback welcome!
 
 ## Before you get started
 
@@ -10,12 +10,10 @@ Follow the getting [started guide](https://docs.mailchain.xyz/getting-started) t
 ## Community Expectations and Roles
 
 Mailchain is a community project.
+
 It depends on its community to provide a productive, friendly and collaborative environment.
 
-- Read and review the [Community Expectations](expectations.md) for an understanding of code and review expectations.
-- See [Community Membership](/community-membership.md) for a list the various responsibilities of contributor roles.
-
-We encourage you to move up this contributor ladder as you gain experience.
+Please read and review the [Community Expectations](expectations.md) for an understanding of code and review expectations.
 
 ## Your First Contribution
 
@@ -25,11 +23,11 @@ We will help you understand the organization of the Mailchain project and direct
 
 You'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
 
-If you have questions about the development process, jump into our [Slack Channel](http://mailchain.slack.com/).  The Mailchain team scans Slack regularly and will usually answer quickly.
+If you have questions about the development process, jump into our [Slack Channel](https://mailchain.slack.com/).  The Mailchain team scans Slack regularly and will usually answer quickly.
 
 ### Find Something to Work On
 
-Help is always welcome! For example, [documentation](http://docs.mailchain.xyz) can always use improvement.
+Help is always welcome! For example, [documentation](https://docs.mailchain.xyz) can always use improvement.
 
 There are always clarifications to code, or renaming of functions/variables.
 
@@ -88,7 +86,7 @@ For a brief description of the importance of code review, please read [On Code R
 There are two aspects of code review: giving and receiving.
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
 
-- follow the project [coding conventions](coding-conventions.md)
+- follow the project [coding conventions](./guide/coding-conventions.md)
 - write [good commit messages](https://chris.beams.io/posts/git-commit/)
 - break large changes into a logical series of smaller patches which individually make easily understandable changes, and in aggregate solve a broader issue
 
@@ -118,4 +116,4 @@ We depend on new people becoming members and regular code contributors, so we wo
 
 ## Mentorship
 
-Please learn about our [mentored contributor program](../mentoring/mentored-contributor.md)
+Please learn about our [mentored contributor program](/mentoring/mentored-contributor.md)

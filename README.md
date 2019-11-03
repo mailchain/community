@@ -14,7 +14,7 @@ We :heart: pull requests!
 
 The [Contributor Guide](/contributors/README.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
-1. How to [file an issue](/contributors/README.md#file-an-issue)
+1. How to [file an issue](/contributors/README.md#its-easy-to-file-an-issue)
 2. How to [find something to work on](/contributors/README.md#find-something-to-work-on)
 3. How to [open a pull request](/contributors/README.md#open-a-pull-request)
 

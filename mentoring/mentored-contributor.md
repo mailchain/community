@@ -23,7 +23,7 @@ You will receive feedback on issues/PRs and have your code reviewed so that at t
 What you put in correlates to what you get out. We expect you to:
 
 * Commit at least 20 hours per month.
-* Remain in good standing throughout the program and uphold our [Code of Conduct](/code-of-conduct).
+* Remain in good standing throughout the program and uphold our [Code of Conduct](/code-of-conduct.md).
 * Expect respect from mentors and peers who are in the cohort with you.
 * Attend, at a minimum, bi-weekly standups (approx 30 minutes each).
 * Work at your own pace but leverage standups to openly discuss your wins and blockers.
@@ -77,7 +77,7 @@ Examples of areas of development include:
 ### Other Help Resources
 
 * [Mailchain Slack](https://mailchain.slack.com)
-* [General Office Hours](https://github.com/mailchain/mailchain/labels/Office%20Hours) +  [#office-hours](https://mailchain.slack.com/messages/office-hours) on Slack
+* [General Office Hours](https://github.com/mailchain/mailchain/labels/Office%20Hours) + [#office-hours](https://mailchain.slack.com/messages/office-hours) on Slack
 * Mentored Contributor Standups
 
 * The docs

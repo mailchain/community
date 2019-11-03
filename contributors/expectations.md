@@ -18,7 +18,7 @@ As a community we expect that all active participants in the community will also
 
 Because reviewers are often the first points of contact between new members of the community and can significantly impact the first impression of the Mailchain community, reviewers are especially important in shaping the Mailchain community.
 
-We highly encourage reviewers to read the [code of conduct](/code-of-conduct.md) and strongly encourage them to go above and beyond the code of conduct to promote a collaborative, respectful Mailchain community.
+We highly encourage reviewers to read the [code of conduct](/code-of-conduct) and strongly encourage them to go above and beyond the code of conduct to promote a collaborative, respectful Mailchain community.
 
 ## Expectations of reviewers: Review latency
 
