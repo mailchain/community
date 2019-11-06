@@ -35,12 +35,12 @@ Think a feature is missing? [Open a feature request][open_feature_request] to st
 
 We may also turn it into a Mailchain Improvement Proposal if it requires further deep discussion.
 
-[blog]: https://medium.com/@Mailchain_xyz
-[code_of_conduct]: /code-of-conduct.md
-[file_an_issue]: https://github.com/mailchain/mailchain/issues/new?assignees=&labels=bug&template=bug_report.md
-[github_office_hours]: [https://github.com/mailchain/mailchain/labels/Office%20Hours]
-[open_feature_request]: https://github.com/mailchain/mailchain/issues/new?assignees=&labels=enhancement&template=feature_request.md
-[slack_join]: https://join.slack.com/t/mailchain/shared_invite/enQtODE4MjE4OTk4OTQ5LWI1MmQwZjcxMTRkZWI0Njc5MWVkZDMzOGE1NDllM2U0MDE4YWMwZGVlZmQ5ZjFlOGNlZDVkYWYzNmQ4ZDJlZmE
-[slack_office_hours]: [https://mailchain.slack.com/messages/office-hours]
-[troubleshooting_guide]: https://docs.mailchain.xyz/troubleshooting/troubleshooting
-[twitter]: https://twitter.com/mailchain_xyz
+[blog]: <https://medium.com/@Mailchain_xyz>
+[code_of_conduct]: </code-of-conduct.md>
+[file_an_issue]: <https://github.com/mailchain/mailchain/issues/new?assignees=&labels=bug&template=bug_report.md>
+[github_office_hours]: <https://github.com/mailchain/mailchain/labels/Office%20Hours>
+[open_feature_request]: <https://github.com/mailchain/mailchain/issues/new?assignees=&labels=enhancement&template=feature_request.md>
+[slack_join]: <https://join.slack.com/t/mailchain/shared_invite/enQtODE4MjE4OTk4OTQ5LWI1MmQwZjcxMTRkZWI0Njc5MWVkZDMzOGE1NDllM2U0MDE4YWMwZGVlZmQ5ZjFlOGNlZDVkYWYzNmQ4ZDJlZmE>
+[slack_office_hours]: <https://mailchain.slack.com/messages/office-hours>
+[troubleshooting_guide]: <https://docs.mailchain.xyz/troubleshooting/troubleshooting>
+[twitter]: <https://twitter.com/mailchain_xyz>
