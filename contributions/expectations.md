@@ -1,10 +1,10 @@
-# Expectations
+# Community Expectations
 
 The foremost goal of the Mailchain community is to develop blockchain-based, simple, secure, decentralized messaging technology.
 
 We also have an equally important goal: to create a community that fosters easy, agile development of such systems.
 
-We therefore describe the expectations for members of the Mailchain community and encourage everyone to read the [code of conduct](/code-of-conduct). All particiants in the community should go above and beyond the code of conduct to promote a collaborative, respectful Mailchain community.
+We therefore describe the expectations for members of the Mailchain community and encourage everyone to read the [code of conduct][code_of_conduct]. All particiants in the community should go above and beyond the code of conduct to promote a collaborative, respectful Mailchain community.
 
 ## Code Review
 
@@ -30,4 +30,5 @@ Many thanks in advance to everyone who contributes their time and effort to maki
 
 The strength of our software shines in the strengths of each individual community member.
 
-[github_workflow]: <./github-workflow.md)>
+[code_of_conduct]: </code-of-conduct.md>
+[github_workflow]: <./github-workflow.md>

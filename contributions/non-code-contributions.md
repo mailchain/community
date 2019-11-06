@@ -2,7 +2,7 @@
 
 *All contributors are welcome, new and old!*
 
-*If you are interested in helping define and structure this work, you can find us in the Non-Code Contribution [Slack channel](https://mailchain.slack.com/messages/non-code-contribution).*
+*If you are interested in helping define and structure this work, you can find us in the 'Non-Code Contribution' [Slack channel][communication_slack].*
 
 ## Non-Code Contributor Guidelines
 
@@ -10,14 +10,14 @@ We want to encourage participants to make non-code contributions to areas of the
 
 This list below is meant to help new contributors looking for a good entrance into the project, and current contributors who would like to do something different.
 
-Are you interested in any of the roles below? Come chat with us [on Slack](https://mailchain.slack.com)!
+Are you interested in any of the roles below? Come chat with us [on Slack][communication_slack]!
 
 ### General Project Roles
 
 These are roles that either span the project as a whole, or span several areas of the project. Most of the roles below can be considered "good-first-roles".
 
 - Community education
-  - Answering questions on [issues](https://github.com/mailchain/mailchain/issues), [Slack](https://mailchain.slack.com), etc.
+  - Answering questions on [issues](https://github.com/mailchain/mailchain/issues), [Slack][communication_slack], etc.
   - Onboarding new contributors
     - Capturing the experiences of "Fresh Eyes" in the project
     - Mentoring new contributors
@@ -55,3 +55,5 @@ These are roles that either span the project as a whole, or span several areas o
 - Pull requests
   - PR triage & labeling
   - Editing PR text: release note, statement
+
+[communication_slack]: </communication#slack>

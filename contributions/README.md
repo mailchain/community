@@ -8,7 +8,7 @@ Browse the [open issues][open_issues] and file new ones, all feedback welcome!
 
 Follow the [getting started guide][getting_started] to install, setup, and send your first message.
 
-Or follow the instructions to [send a Mailchain message on a testnet][docs_mailchain_testnet].
+Or follow the instructions to [send a Mailchain message on a testnet][docs_mailchain_testnet] to get hands on experience using Mailchain.
 
 ## Community Expectations
 
@@ -22,13 +22,13 @@ We will help you understand the organization of the Mailchain project and direct
 
 You'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
 
-If you have questions about the development process, jump into our [Slack Channel](https://mailchain.slack.com/).  The Mailchain team scans Slack regularly and will usually answer quickly.
+If you have questions about the development process, join our [Slack Channel][communication_slack].  The Mailchain team scans Slack regularly and will usually answer quickly.
 
 ## Find Something to Work On
 
 Help is always welcome! For example, [documentation](https://docs.mailchain.xyz) can always use improvement.
 
-If you do not know what to start on, look at the [open issues](https://github.com/mailchain/mailchain/issues) or ask in our [Slack Channel](http://mailchain.slack.com/) to see who is looking for help or what's being worked on.
+If you do not know what to start on, look at the [open issues](https://github.com/mailchain/mailchain/issues) or ask in our [Slack Channel][communication_slack] to see who is looking for help or what's being worked on.
 
 ### Non-Code Contributions
 
@@ -78,11 +78,11 @@ To check out the code to work on, please refer to [the GitHub Workflow Guide](./
 
 ## Open a Pull Request
 
-Pull requests (PR) follow the standard [github pull request](https://help.github.com/articles/about-pull-requests/) process. We need to build our integration tests there as several components that need building first.
+Pull requests (PR) follow the standard [Github pull request](https://help.github.com/articles/about-pull-requests/) process. We need to build our integration tests there as several components that need building first.
 
 ## Code Review
 
-For a brief description of the importance of code review, please read [On Code Review](/contributors/expectations.md#code-review).  
+For a brief description of the importance of code review, please read [Code Review](/contributions/expectations.md#code-review).  
 
 There are two aspects of code review: giving and receiving.
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
@@ -91,7 +91,7 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 - write [good commit messages](https://chris.beams.io/posts/git-commit/)
 - break large changes into a logical series of smaller patches which individually make easily understandable changes, and in aggregate solve a broader issue
 
-Reviewers are highly encouraged the people giving the review to revisit the [Code of Conduct](/code-of-conduct.md) and [community expectations](./expectations.md#expectations-of-reviewers-review-latency) and must go above and beyond to promote a collaborative, respectful community.
+Reviewers are highly encouraged the people giving the review to revisit the [Code of Conduct](/code-of-conduct.md) and [community expectations](./expectations.md) and must go above and beyond to promote a collaborative, respectful community.
 
 When reviewing a pull request from others [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses which leads new contributors to positive collaboration without inundating them initially with nuances:
 
@@ -113,9 +113,10 @@ If you pull request requires and changes to the documentation open a [pull reque
 
 If you haven't noticed by now, we are building a lively, and friendly open-source community.
 
-We depend on new people becoming members and regular code contributors, so we would like you to come join us!
+We depend on new people becoming members and regular code contributors, so we would like you to [come join us][communication_slack]!
 
 [code_of_conduct]: </code-of-conduct.md>
-[open_issues]: <https://github.com/mailchain/community/issues>
-[getting_started]: <https://docs.mailchain.xyz/getting-started>
+[communication_slack]: </communication#slack>
 [docs_mailchain_testnet]: <https://docs.mailchain.xyz/development/sending-testnet-messages>
+[getting_started]: <https://docs.mailchain.xyz/getting-started>
+[open_issues]: <https://github.com/mailchain/mailchain/issues>

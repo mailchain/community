@@ -1,4 +1,4 @@
-# Code conventions
+# Code Conventions
 
 ## Go
 
