@@ -4,7 +4,7 @@
 
 Welcome prospective mentee!
 
-This is the first cohort of the Mailchain Mentored Contributor Program (but not our first time mentoring developers).
+This is the first cohort of the *Mailchain Mentored Contributor Program* (but not our first time mentoring developers).
 
 The Mentored Contributor Program (MCP) will guide you through a self-paced, semi-structured learning program over the course of three months.
 
@@ -23,12 +23,12 @@ You will receive feedback on issues/PRs and have your code reviewed so that at t
 What you put in correlates to what you get out. We expect you to:
 
 * Commit at least 20 hours per month.
-* Remain in good standing throughout the program and uphold our [Code of Conduct](/code-of-conduct.md).
+* Remain in good standing throughout the program and uphold our [Code of Conduct][code_of_conduct].
 * Expect respect from mentors and peers who are in the cohort with you.
 * Attend, at a minimum, bi-weekly standups (approx 30 minutes each).
 * Work at your own pace but leverage standups to openly discuss your wins and blockers.
 * Use the standups to cover topics related to skill growth, suggested activities, and suitable issues to work on.
-* Be helpful and share knowledge to your peers in the cohort.
+* Be helpful and share knowledge with your peers in the cohort.
 * Give back and become a mentor to future cohorts.
 
 ## Development Areas & Focussed Activities
@@ -74,16 +74,27 @@ Examples of areas of development include:
   * cgo
   * wasm
 
+### How to apply to the program
+
+Anyone can apply to the program through this [application form][mcp_application_form].
+
+We review applications periodically and will let you know if we're able to add you to the program. In the meantime, don't hesitate to dive right in to the code!
+
 ### Other Help Resources
 
-* [Mailchain Slack](https://mailchain.slack.com)
-* [General Office Hours](https://github.com/mailchain/mailchain/labels/Office%20Hours) + [#office-hours](https://mailchain.slack.com/messages/office-hours) on Slack
+* [Mailchain Slack][slack_mailchain]
+* [General Office Hours][github_office_hours] + [#office-hours][slack_office_hours] on Slack
 * Mentored Contributor Standups
-
-* The docs
-  * Every repo has a README
-  * <https://docs.mailchain.xyz>
+* Developer docs: every repo has a `README.md` as a starting point
+* General documentation on [docs.mailchain.com][docs_mailchain]
 
 Thank you to both mentees and mentors for helping us continually improve the program.
 
 :heart: We love you! :heart:
+
+[code_of_conduct]: </code-of-conduct.md>
+[docs_mailchain]: <https://docs.mailchain.xyz>
+[github_office_hours]: <https://github.com/mailchain/mailchain/labels/Office%20Hours>
+[mcp_application_form]: <https://forms.gle/9EBhkMKiNx3C71uZ6>
+[slack_mailchain]: <https://mailchain.slack.com>
+[slack_office_hours]: <https://mailchain.slack.com/messages/office-hours>

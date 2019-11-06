@@ -1,11 +1,11 @@
 # Github Workflow
 
-## 1 Fork in the cloud
+## 1. Fork in the cloud
 
 1. Visit <https://github.com/mailchain/mailchain>
 2. Click `Fork` button (top right) to establish a cloud-based fork.
 
-## 2 Clone fork to local storage
+## 2. Clone fork to local storage
 
 Mailchain uses Go version 1.13 with [module](https://github.com/golang/go/wiki/Modules) support, meaning it can be cloned into your folder of preference.
 
@@ -26,7 +26,7 @@ git remote set-url --push upstream no_push
 git remote -v
 ```
 
-## 3 Branch
+## 3. Branch
 
 Get your local master up to date:
 
@@ -45,7 +45,7 @@ git checkout -b myfeature
 
 Then edit code on the `myfeature` branch.
 
-## 4 Keep your branch in sync
+## 4. Keep your branch in sync
 
 ```sh
 # While on your myfeature branch
@@ -57,7 +57,7 @@ Please don't use `git pull` instead of the above `fetch` / `rebase`. `git pull` 
 
 You can also consider changing your `.git/config` file via `git config branch.autoSetupRebase always` to change the behavior of `git pull`.
 
-## 5 Commit
+## 5. Commit
 
 Commit your changes.
 
@@ -68,7 +68,7 @@ git commit
 Likely you go back and edit/build/test some more then `commit --amend`
 in a few cycles.
 
-## 6 Push
+## 6. Push
 
 When ready to review (or just to establish an offsite backup of your work),
 push your branch to your fork on `github.com`:
@@ -77,13 +77,13 @@ push your branch to your fork on `github.com`:
 git push -f ${your_remote_name} myfeature
 ```
 
-## 7 Create a pull request
+## 7. Create a pull request
 
 1. Visit your fork at `https://github.com/$user/mailchain`
 2. Click the `Compare & Pull Request` button next to your `myfeature` branch.
 3. [Open](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) the pull request.
 
-## Get a code review
+## 8. Get a code review
 
 Once your pull request has been opened it will be assigned to one or more reviewers.  Those reviewers will do a thorough code review, looking for correctness, bugs, opportunities for improvement, documentation and comments, and style.
 
@@ -91,7 +91,7 @@ Commit changes made in response to review comments to the same branch on your fo
 
 Very small PRs are easy to review.  Very large PRs are very difficult to review.
 
-## Squash and Merge
+## 9. Squash and Merge
 
 Upon merge (by either you or your reviewer), all commits left on the review branch should represent meaningful milestones or units of work.  Use commits to add clarity to the development and review process.
 

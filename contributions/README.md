@@ -1,19 +1,18 @@
-# Guide
+# Contribution Guide
 
-Welcome to Mailchain. This document is a guide for how to contribute to the code base. Please read and observe our [Code of Conduct](/code-of-conduct.md).
-Browse the [open issues](https://github.com/mailchain/community/issues) and file new ones, all feedback welcome!
+Welcome to Mailchain. This document is a guide for how to contribute to the code base. Please read and observe our [Code of Conduct][code_of_conduct].
+
+Browse the [open issues][open_issues] and file new ones, all feedback welcome!
 
 ## Before you get started
 
-Follow the getting [started guide](https://docs.mailchain.xyz/getting-started) to install, setup, and send your first message.
+Follow the [getting started guide][getting_started] to install, setup, and send your first message.
 
-## Community Expectations and Roles
+Or follow the instructions to [send a Mailchain message on a testnet][docs_mailchain_testnet].
 
-Mailchain is a community project.
+## Community Expectations
 
-It depends on its community to provide a productive, friendly and collaborative environment.
-
-Please read and review the [Community Expectations](expectations.md) for an understanding of code and review expectations.
+Mailchain is a community project. Please review the [Community Expectations](expectations.md) for an understanding of code and review expectations.
 
 ## Your First Contribution
 
@@ -25,19 +24,21 @@ You'll be able to pick up issues, write code to fix them, and get your work revi
 
 If you have questions about the development process, jump into our [Slack Channel](https://mailchain.slack.com/).  The Mailchain team scans Slack regularly and will usually answer quickly.
 
-### Find Something to Work On
+## Find Something to Work On
 
 Help is always welcome! For example, [documentation](https://docs.mailchain.xyz) can always use improvement.
 
-There are always clarifications to code, or renaming of functions/variables.
-
-There's always a need for more test coverage.
-
-You get the idea - if you ever see something you fix or improve, own it. The community appreciates it.
-
 If you do not know what to start on, look at the [open issues](https://github.com/mailchain/mailchain/issues) or ask in our [Slack Channel](http://mailchain.slack.com/) to see who is looking for help or what's being worked on.
 
+### Non-Code Contributions
+
 Those interested in contributing without writing code may also find ideas in the [Non-Code Contributions Guide](non-code-contributions.md).
+
+### Code Contributions
+
+There are always clarifications to code, or renaming of functions/variables. There's always a need for more test coverage.
+
+You get the idea - if you ever see something you fix or improve, own it. The community appreciates it.
 
 ### Find a Good First Topic
 
@@ -51,7 +52,7 @@ Please note that while several of the repositories in the Mailchain community ha
 
 Another good approach is to find a documentation improvement, such as a missing/broken link, which will give you exposure to the code submission/review process without the added complication of technical depth.
 
-Please see [Contributing](#contributing) below for the workflow. When you take on an issue, you can assign it to yourself.
+Please see [Contributing](#contributing) for the workflow. When you take on an issue, you can assign it to yourself.
 
 ### It's Easy to File an Issue
 
@@ -59,7 +60,7 @@ Not ready to contribute code, but see something that needs work?
 
 The community encourages everyone to contribute code, but we also appreciate when someone reports an issue (AKA a problem).
 
-Raise issues under the appropriate Mailchain sub-repository. For example: open a documentation issue in [mailchain/docs.mailchain.xyz](https://github.com/mailchain/docs.mailchain.xyz/issues).
+Raise issues under the appropriate Mailchain sub-repository. For example: open a front-end issue in [mailchain/mailchain-web](https://github.com/mailchain/mailchain-web).
 
 Adhere to the prompted guidelines while opening an issue and fill out as much as you can. This will help the community fix it.
 
@@ -86,7 +87,7 @@ For a brief description of the importance of code review, please read [On Code R
 There are two aspects of code review: giving and receiving.
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
 
-- follow the project [coding conventions](./guide/coding-conventions.md)
+- follow the project [coding conventions](./coding-conventions.md)
 - write [good commit messages](https://chris.beams.io/posts/git-commit/)
 - break large changes into a logical series of smaller patches which individually make easily understandable changes, and in aggregate solve a broader issue
 
@@ -114,6 +115,7 @@ If you haven't noticed by now, we are building a lively, and friendly open-sourc
 
 We depend on new people becoming members and regular code contributors, so we would like you to come join us!
 
-## Mentorship
-
-Please learn about our [mentored contributor program](/mentoring/mentored-contributor.md)
+[code_of_conduct]: </code-of-conduct.md>
+[open_issues]: <https://github.com/mailchain/community/issues>
+[getting_started]: <https://docs.mailchain.xyz/getting-started>
+[docs_mailchain_testnet]: <https://docs.mailchain.xyz/development/sending-testnet-messages>
