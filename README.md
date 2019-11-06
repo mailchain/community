@@ -17,19 +17,19 @@ These pages are laid out so they can be read in a sensible order or you can go d
 ### Community Guidelines
 
 * Our [code of conduct][code_of_conduct].
-* How to [communicate][communicate] with the rest of the Mailchain community (chat, social channels, Office Hours call, etc.).
-* [Expectations][expectations] on us and you.
+* Guide to [communication][communication] with the rest of the Mailchain community (chat, social channels, Office Hours call, etc.).
+* Community [expectations][expectations] on us and you.
 
 ### Contributing Guidelines
 
-* The [contributor guide][contributor_guide].
-* Contribute in a [non-technical way][non_code_contributions].
-* Contribute in a technical way, including following [coding conventions][coding_conventions] and [github workflow][github_workflow].
-* [Reporting bugs][report_bugs] or [feature requests][request_features].
+* The [contribution guide][contribution_guide].
+* How to contribute in a [non-technical way][non_code_contributions].
+* How to contribute in a technical way, including following [code conventions][code_conventions] and [github workflow][github_workflow].
+* How to [report bugs][report_bugs] or make [feature requests][request_features].
 
 ## Quickstart For Contributing
 
-If you've read the [contributor guide][contributor_guide] and want to dive straight in, these topics might be useful:
+If you've read the [contribution guide][contribution_guide] and want to dive straight in, these topics might be useful:
 
 1. How to [file an issue][file_an_issue].
 1. How to [find something to work on][good_first_issue].
@@ -40,9 +40,9 @@ If you've read the [contributor guide][contributor_guide] and want to dive strai
 Thank you for being part of the Mailchain community :hugs:
 
 [code_of_conduct]: </code-of-conduct.md>
-[coding_conventions]: </contributions/coding-conventions.md>
-[contributor_guide]: </contributions/README.md>
-[communicate]: </communication/README.md>
+[code_conventions]: </contributions/coding-conventions.md>
+[contribution_guide]: </contributions/README.md>
+[communication]: </communication/README.md>
 [docs_mailchain_testnet]: <https://docs.mailchain.xyz/development/sending-testnet-messages>
 [expectations]: </contributions/expectations.md>
 [file_an_issue]: </contributions#its-easy-to-file-an-issue>
@@ -51,5 +51,5 @@ Thank you for being part of the Mailchain community :hugs:
 [github_workflow_pr]: </contributions/github-workflow.md#7-create-a-pull-request>
 [good_first_issue]: </contributions#find-a-good-first-topic>
 [non_code_contributions]: </contributions/non-code-contributions.md>
-[report_bugs]: </communication/#questions-of-bugs>
+[report_bugs]: </communication/#questions-or-bugs>
 [request_features]: </communication/#features-and-improvements>
