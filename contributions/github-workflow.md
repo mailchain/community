@@ -114,7 +114,7 @@ For mass automated fixups (e.g. automated doc formatting), use one or more commi
 
 In case you wish to revert a commit, use the following instructions.
 
-- Create a branch and sync it with upstream.
+* Create a branch and sync it with upstream.
 
   ```sh
   # create a branch
@@ -125,22 +125,22 @@ In case you wish to revert a commit, use the following instructions.
   git rebase upstream/master
   ```
 
-- If the commit you wish to revert is a:
-  - **merge commit:**
+* If the commit you wish to revert is a:
+  * **merge commit:**
 
     ```sh
     # SHA is the hash of the merge commit you wish to revert
     git revert -m 1 SHA
     ```
 
-  - **single commit:**
+  * **single commit:**
 
     ```sh
     # SHA is the hash of the single commit you wish to revert
     git revert SHA
     ```
 
-- This will create a new commit reverting the changes. Push this new commit to your remote.
+* This will create a new commit reverting the changes. Push this new commit to your remote.
 
 ```sh
 git push ${your_remote_name} myrevert

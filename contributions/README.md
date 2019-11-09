@@ -38,7 +38,7 @@ Those interested in contributing without writing code may also find ideas in the
 
 There are always clarifications to code, or renaming of functions/variables. There's always a need for more test coverage.
 
-You get the idea - if you ever see something you fix or improve, own it. The community appreciates it.
+You get the idea * if you ever see something you fix or improve, own it. The community appreciates it.
 
 ### Find a Good First Topic
 
@@ -87,17 +87,17 @@ For a brief description of the importance of code review, please read [Code Revi
 There are two aspects of code review: giving and receiving.
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
 
-- follow the project [coding conventions](./coding-conventions.md)
-- write [good commit messages](https://chris.beams.io/posts/git-commit/)
-- break large changes into a logical series of smaller patches which individually make easily understandable changes, and in aggregate solve a broader issue
+* follow the project [coding conventions](./coding-conventions.md)
+* write [good commit messages](https://chris.beams.io/posts/git-commit/)
+* break large changes into a logical series of smaller patches which individually make easily understandable changes, and in aggregate solve a broader issue
 
 Reviewers are highly encouraged the people giving the review to revisit the [Code of Conduct](/code-of-conduct.md) and [community expectations](./expectations.md) and must go above and beyond to promote a collaborative, respectful community.
 
 When reviewing a pull request from others [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses which leads new contributors to positive collaboration without inundating them initially with nuances:
 
-- Is the idea behind the contribution sound?
-- Is the contribution architected correctly?
-- Is the contribution polished?
+* Is the idea behind the contribution sound?
+* Is the contribution architected correctly?
+* Is the contribution polished?
 
 Note: if your pull request isn't getting enough attention, you can use the [#pr-reviews](https://mailchain.slack.com/messages/pr-reviews) channel on Slack to get help to find reviewers.
 

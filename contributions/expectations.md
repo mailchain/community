@@ -28,7 +28,7 @@ If reviewers are unavailable to review for some time, they should set their [use
 
 Many thanks in advance to everyone who contributes their time and effort to making Mailchain both a successful product and a successful community.
 
-The strength of our software shines in the strengths of each individual community member.
+The strength of our software is a reflection of the strengths of each individual community member.
 
 [code_of_conduct]: </code-of-conduct.md>
 [github_workflow]: <./github-workflow.md>

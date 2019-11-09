@@ -25,7 +25,6 @@ What you put in correlates to what you get out. We expect you to:
 * Commit at least 20 hours per month.
 * Remain in good standing throughout the program and uphold our [Code of Conduct][code_of_conduct].
 * Expect respect from mentors and peers who are in the cohort with you.
-* Attend, at a minimum, bi-weekly standups (approx 30 minutes each).
 * Work at your own pace but leverage standups to openly discuss your wins and blockers.
 * Use the standups to cover topics related to skill growth, suggested activities, and suitable issues to work on.
 * Be helpful and share knowledge with your peers in the cohort.
@@ -94,7 +93,7 @@ Thank you to both mentees and mentors for helping us continually improve the pro
 
 [code_of_conduct]: </code-of-conduct.md>
 [docs_mailchain]: <https://docs.mailchain.xyz>
-[github_office_hours]: <https://github.com/mailchain/mailchain/labels/Office%20Hours>
+[github_office_hours]: <https://github.com/mailchain/mailchain/issues?q=label%3A%22Office+Hours%22>
 [mcp_application_form]: <https://forms.gle/9EBhkMKiNx3C71uZ6>
 [slack_mailchain]: <https://mailchain.slack.com>
 [slack_office_hours]: <https://mailchain.slack.com/messages/office-hours>
