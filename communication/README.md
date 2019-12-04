@@ -40,7 +40,7 @@ We may also turn it into a Mailchain Improvement Proposal if it requires further
 [file_an_issue]: <https://github.com/mailchain/mailchain/issues/new?assignees=&labels=bug&template=bug_report.md>
 [github_office_hours]: <https://github.com/mailchain/mailchain/labels/Office%20Hours>
 [open_feature_request]: <https://github.com/mailchain/mailchain/issues/new?assignees=&labels=enhancement&template=feature_request.md>
-[slack_join]: <https://join.slack.com/t/mailchain/shared_invite/enQtODE4MjE4OTk4OTQ5LWI1MmQwZjcxMTRkZWI0Njc5MWVkZDMzOGE1NDllM2U0MDE4YWMwZGVlZmQ5ZjFlOGNlZDVkYWYzNmQ4ZDJlZmE>
+[slack_join]: <https://join.slack.com/t/mailchain/shared_invite/enQtODU3ODMxMjg2MTkyLTk0MjgwMDY5ZGUzZWU4MjY0YThhNGFhYTBlMGFmYzAxMTQ3Y2JlZGE0YTA1NmU2NTZjZWY0ZTA4ODY0NDRjODQ>
 [slack_office_hours]: <https://mailchain.slack.com/messages/office-hours>
 [troubleshooting_guide]: <https://docs.mailchain.xyz/troubleshooting/troubleshooting>
 [twitter]: <https://twitter.com/mailchain_xyz>
