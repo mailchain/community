@@ -99,7 +99,7 @@ When reviewing a pull request from others [The Gentle Art of Patch Review](http:
 * Is the contribution architected correctly?
 * Is the contribution polished?
 
-Note: if your pull request isn't getting enough attention, you can use the [#pr-reviews](https://mailchain.slack.com/messages/pr-reviews) channel on Slack to get help to find reviewers.
+Note: if your pull request isn't getting enough attention, you can use the [#pr-reviews][pr-reviews-slack] channel on Slack to get help to find reviewers. (You need to [join Slack to access this][slack_join])
 
 ## Testing
 
@@ -120,3 +120,5 @@ We depend on new people becoming members and regular code contributors, so we wo
 [docs_mailchain_testnet]: <https://docs.mailchain.xyz/development/sending-testnet-messages>
 [getting_started]: <https://docs.mailchain.xyz/getting-started>
 [open_issues]: <https://github.com/mailchain/mailchain/issues>
+[slack_join]: <https://join.slack.com/t/mailchain/shared_invite/enQtODgzNjIxMTEwODY1LWI3ZTU2MTBiODFhMmZmZmU5ODhmNzk4ZWFjM2ZkZTE5ZTNjNGZjMjU2NGY1MmM0ZjkwNzM5OTk4YTk4ZmZkN2E>
+[pr-reviews-slack]: <https://mailchain.slack.com/messages/pr-reviews>
