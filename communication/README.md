@@ -17,7 +17,7 @@ If you want to add a new channel, reach out an admin to explain why you think it
 
 Office hours are held once a month. Details for the next call can be found here [Mailchain Office Hours][github_office_hours].
 
-You can also post questions before or during the call that we will address via the [#office-hours][slack_office_hours] Slack channel or add them as a comment to the next call issue on Github.
+You can also post questions before or during the call that we will address via the [#office-hours][slack_office_hours] Slack channel or add them as a comment to the next call issue on Github. (You need to [join Slack to access this][slack_join])
 
 ---
 
@@ -40,7 +40,7 @@ We may also turn it into a Mailchain Improvement Proposal if it requires further
 [file_an_issue]: <https://github.com/mailchain/mailchain/issues/new?assignees=&labels=bug&template=bug_report.md>
 [github_office_hours]: <https://github.com/mailchain/mailchain/labels/Office%20Hours>
 [open_feature_request]: <https://github.com/mailchain/mailchain/issues/new?assignees=&labels=enhancement&template=feature_request.md>
-[slack_join]: <https://join.slack.com/t/mailchain/shared_invite/enQtODU3ODMxMjg2MTkyLTk0MjgwMDY5ZGUzZWU4MjY0YThhNGFhYTBlMGFmYzAxMTQ3Y2JlZGE0YTA1NmU2NTZjZWY0ZTA4ODY0NDRjODQ>
+[slack_join]: <https://join.slack.com/t/mailchain/shared_invite/enQtODgzNjIxMTEwODY1LWI3ZTU2MTBiODFhMmZmZmU5ODhmNzk4ZWFjM2ZkZTE5ZTNjNGZjMjU2NGY1MmM0ZjkwNzM5OTk4YTk4ZmZkN2E>
 [slack_office_hours]: <https://mailchain.slack.com/messages/office-hours>
 [troubleshooting_guide]: <https://docs.mailchain.xyz/troubleshooting/troubleshooting>
 [twitter]: <https://twitter.com/mailchain_xyz>
