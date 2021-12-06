@@ -81,8 +81,7 @@ We review applications periodically and will let you know if we're able to add y
 
 ### Other Help Resources
 
-* [Mailchain Slack][slack_mailchain]
-* [General Office Hours][github_office_hours] + [#office-hours][slack_office_hours] on Slack ([join Slack][slack_mailchain] first)
+* [Mailchain Discord][discord_mailchain]
 * Mentored Contributor Standups
 * Developer docs: every repo has a `README.md` as a starting point
 * General documentation on [docs.mailchain.com][docs_mailchain]
@@ -95,5 +94,5 @@ Thank you to both mentees and mentors for helping us continually improve the pro
 [docs_mailchain]: <https://docs.mailchain.xyz>
 [github_office_hours]: <https://github.com/mailchain/mailchain/issues?q=label%3A%22Office+Hours%22>
 [mcp_application_form]: <https://forms.gle/9EBhkMKiNx3C71uZ6>
-[slack_mailchain]: <https://join.slack.com/t/mailchain/shared_invite/enQtODgzNjIxMTEwODY1LWI3ZTU2MTBiODFhMmZmZmU5ODhmNzk4ZWFjM2ZkZTE5ZTNjNGZjMjU2NGY1MmM0ZjkwNzM5OTk4YTk4ZmZkN2E>
+[discord_mailchain]: </communication#community-chat>
 [slack_office_hours]: <https://mailchain.slack.com/messages/office-hours>
