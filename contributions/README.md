@@ -22,13 +22,13 @@ We will help you understand the organization of the Mailchain project and direct
 
 You'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
 
-If you have questions about the development process, join our [Slack Channel][communication_slack].  The Mailchain team scans Slack regularly and will usually answer quickly.
+If you have questions about the development process, join our [Discord community][communication_discord].  The Mailchain team responds regularly and will usually answer quickly.
 
 ## Find Something to Work On
 
 Help is always welcome! For example, [documentation](https://docs.mailchain.xyz) can always use improvement.
 
-If you do not know what to start on, look at the [open issues](https://github.com/mailchain/mailchain/issues) or ask in our [Slack Channel][communication_slack] to see who is looking for help or what's being worked on.
+If you do not know what to start on, look at the [open issues](https://github.com/mailchain/mailchain/issues) or ask in our [Discord server][communication_discord] to see who is looking for help or what's being worked on.
 
 ### Non-Code Contributions
 
@@ -99,7 +99,7 @@ When reviewing a pull request from others [The Gentle Art of Patch Review](http:
 * Is the contribution architected correctly?
 * Is the contribution polished?
 
-Note: if your pull request isn't getting enough attention, you can use the [#pr-reviews][pr-reviews-slack] channel on Slack to get help to find reviewers. (You need to [join Slack to access this][slack_join])
+Note: if your pull request isn't getting enough attention, you can use the Developer channel in Discord to get help to find reviewers. (You need to [join Discord to access this][communication_discord])
 
 ## Testing
 
@@ -113,10 +113,10 @@ If you pull request requires and changes to the documentation open a [pull reque
 
 If you haven't noticed by now, we are building a lively, and friendly open-source community.
 
-We depend on new people becoming members and regular code contributors, so we would like you to [come join us][communication_slack]!
+We depend on new people becoming members and regular code contributors, so we would like you to [come join us][communication_discord]]!
 
 [code_of_conduct]: </code-of-conduct.md>
-[communication_slack]: </communication#slack>
+[communication_discord]: </communication#community-chat>
 [docs_mailchain_testnet]: <https://docs.mailchain.xyz/development/sending-testnet-messages>
 [getting_started]: <https://docs.mailchain.xyz/getting-started>
 [open_issues]: <https://github.com/mailchain/mailchain/issues>
